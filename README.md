@@ -1,5 +1,5 @@
-                                    Hi 👋 I'm @Umair Kifayat
-                                      A Passionate software Engineer
+                                  Hi 👋, I'm Umair Kifayat
+                                  A Passionate software Engineer
                                     
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning web and app Development
