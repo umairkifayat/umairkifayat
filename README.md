@@ -1,4 +1,4 @@
-                             <h1 align="center">Hi 👋, I'm Umair Kifayat</h1>
+<h1 align="center">Hi 👋, I'm Umair Kifayat</h1>
 <h3 align="center">A passionate Software Engineer</h3>
 
 - 🔭 I’m currently learning on **Web and Mobile app development**
