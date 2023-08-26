@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently learning on **Web and Mobile app development**
 
-- 👨‍💻 All of my projects are available at [Https//umairkifayat.github.com](Https//umairkifayat.github.com)
+- 👨‍💻 All of my projects are available at [Https//umairkifayat.github.com](https://www.linkedin.com/in/umair-kifayat-91749b280/)
 
 - 📫 How to reach me **umairkifayat3@gmail.com**
 
