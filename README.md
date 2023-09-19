@@ -35,8 +35,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=umairkifayat&show_icons=true&locale=en&layout=compact" alt="umairkifayat" /></p>
 
 <p><img align="center" src="https://github-readme-st
+       <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=umairkifayat&show_icons=true&locale=en" alt="umairkifayat" /></p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=umairkifayat&" alt="umairkifayat" /></p>
 </body>
 </html>
