@@ -6,7 +6,7 @@
     
 </head>
 <body>
-    <p align="left"> <img src="![Untitled](https://github.com/umairkifayat/umairkifayat/assets/136703449/f0494b87-4899-4d53-b117-a9dece433879)
+    <p align="left"> <img src="(https://github.com/umairkifayat/umairkifayat/assets/136703449/f0494b87-4899-4d53-b117-a9dece433879)
 " alt="umairkifayat" /> </p>
 <h1 align="center">Hi 👋, I'm Umair Kifayat</h1>
 <h3 align="center">A passionate frontend developer from pakistan</h3>
