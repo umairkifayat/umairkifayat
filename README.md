@@ -30,7 +30,6 @@ SVG](https://readme-typing-svg.herokuapp.com?size=26&duration=4000&color=318CE7&
 [![An image of @ahmedrazabaloch's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ahmedrazabaloch)](https://holopin.io/@ahmedrazabaloch)
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedrazabaloch" alt="ahmedrazabaloch" /></a> </p>
 
 <h1 align="left">🔥   My Status :</h1>
 
