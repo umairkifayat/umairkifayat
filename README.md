@@ -9,7 +9,7 @@
 
 <!-- animation start  -->
 ![Typing
-SVG](https://readme-typing-svg.herokuapp.com?size=26&duration=4000&color=318CE7&center=true&vCenter=true&width=1000&height=60&lines=%E2%9C%A8+Hi+%2C+I'm+UMAIR KIFAUAY+%F0%9F%92%AF;%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A5++Passionate+Front+end+Developer++%F0%9F%92%BB;Always++Learning++%F0%9F%92%A1;Dedicated+to+Work++%F0%9F%92%AA%F0%9F%8F%BB;Experience+Seeker++%F0%9F%92%AF;from+Karachi%2C+Pakistan.+%F0%9F%87%B5%F0%9F%87%B0) 
+SVG](https://readme-typing-svg.herokuapp.com?size=26&duration=4000&color=318CE7&center=true&vCenter=true&width=1000&height=60&lines=%E2%9C%A8+Hi+%2C+I'm+UMAIR+%F0%9F%92%AF;%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A5++Passionate+Front+end+Developer++%F0%9F%92%BB;Always++Learning++%F0%9F%92%A1;Dedicated+to+Work++%F0%9F%92%AA%F0%9F%8F%BB;Experience+Seeker++%F0%9F%92%AF;from+Karachi%2C+Pakistan.+%F0%9F%87%B5%F0%9F%87%B0) 
 <!-- animation end  -->
 <br/>
 
@@ -44,11 +44,7 @@ SVG](https://readme-typing-svg.herokuapp.com?size=26&duration=4000&color=318CE7&
 
 <br clear="both">
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedrazabaloch&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=ahmedrazabaloch&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=3&order=3" height="220" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmedrazabaloch&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
-</div>
+
 
 ###
 
