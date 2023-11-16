@@ -23,10 +23,7 @@
 - 💬 Ask me about **Firebase**
 
 - 📫 How to reach me **umairkifayat3@gmail.com**
-
-[![An image of @Umair Kifayat's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/umairkifayat)](https://holopin.io/@umairkifayat)
-
-
+- 
 <h1 align="left">🔥   My Status :</h1>
 
 ###
