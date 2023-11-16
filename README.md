@@ -91,6 +91,8 @@
             <li>📫 How to reach me <strong>umairkifayat3@gmail.com</strong></li>
         </ul>
     </div>
+    <br>
+    <br><br><br>
 
     <div align="center">
         [![wakatime](https://wakatime.com/badge/user/153ed0ab-cf88-4ca3-9f5e-e78272220f06.svg?style=for-the-badge)](https://wakatime.com/@153ed0ab-cf88-4ca3-9f5e-e78272220f06)
