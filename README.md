@@ -1,105 +1,126 @@
- <img src="https://github.com/ahmedrazabaloch/SMIT-WMA-BATCH-10/blob/main/Assets/background.png"> 
-<!--<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif">-->
+<img src="./assets/pixel-night-banner.gif" align="middle" alt="Banner" width="100%"/>
 
-
-<h1 align="center">Hi 👋, I'm Umair Kifayat</h1>
-<!-- <h3 align="center">A passionate frontend developer from Pakistan</h3> -->
-
-<br/>
-
-<!-- animation start  -->
-![Typing
-SVG](https://readme-typing-svg.herokuapp.com?size=26&duration=4000&color=318CE7&center=true&vCenter=true&width=1000&height=60&lines=%E2%9C%A8+Hi+%2C+I'm+UMAIR+%F0%9F%92%AF;%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A5++Passionate+Front+end+Developer++%F0%9F%92%BB;Always++Learning++%F0%9F%92%A1;Dedicated+to+Work++%F0%9F%92%AA%F0%9F%8F%BB;Experience+Seeker++%F0%9F%92%AF;from+Karachi%2C+Pakistan.+%F0%9F%87%B5%F0%9F%87%B0) 
-<!-- animation end  -->
-<br/>
-
-<img align="right" alt="Coding" width="400" style="border-radius:20px;"
-	src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
-
-<!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> -->
-
-
-- 🌱 I’m currently learning **Firebase**
-
-- 👨‍💻 All of my projects are available at 
-
-- 💬 Ask me about **Firebase**
-
-- 📫 How to reach me **umairkifayat3@gmail.com**
-
-[![An image of @ahmedrazabaloch's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ahmedrazabaloch)](https://holopin.io/@ahmedrazabaloch)
-
-
-
-<h1 align="left">🔥   My Status :</h1>
-
-###
-<div align="center">
-	
-[![wakatime](https://wakatime.com/badge/user/153ed0ab-cf88-4ca3-9f5e-e78272220f06.svg?style=for-the-badge)](https://wakatime.com/@153ed0ab-cf88-4ca3-9f5e-e78272220f06)
-<img src="https://komarev.com/ghpvc/?username=ahmedrazabaloch&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="ahmedrazabaloch" /> 
-
-</div>
-
-<br clear="both">
-
-
-
-###
-
-<h3 align="left">🌐 Connect with me:</h3>
-
-###
+<img src="./assets/borderseparator.gif" width="100%"/>
 
 <div align="center">
-  <a href="https://www.facebook.com/aahmedrazabaloch/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="facebook logo"  />
+  <img src="./assets/animated-flame-01.gif" width="1.75%" align="left"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=C5FE00E6&random=false&width=940&lines=Hey%2C+I'm+Rizwan+and+Welcome+to+my+Coding+world!" alt="Hey, I'm Umair and Welcome to my coding world! animated typed out" width="90%" align="middle"/>
+  <img src="./assets/animated-flame-01.gif" width="1.75%" align="right"/>
+</div>
+
+<img src="./assets/borderseparator.gif" width="100%"/>
+
+
+<h2></h2>
+
+<img align="right" src="./assets/vaporwave-aesthetic.gif" height="450px" alt="pixel city image">
+
+<h2 align="center"> Learned from SMIT<img src="./assets/animated-flame-01.gif" width="14px"/> and passionate<img src="./assets/animated-flame-01.gif" width="14px"/> about coding! </h2><br>
+
+-   👨‍💻 I'm Umair Ahmed👋, an Undergraduate University student, I'm currently pursuing a Software Engineering Degree from University of Karachi. <br><br><br>
+
+-   🌳 I’m currently working as a MERN Stack Developer <br><br><br>
+
+-   🌊 2024 Goals: Learn DevOps and Contribute to Open Source Projects. <br><br><br>
+
+-   ☕ Interest: Coding, Games, Coffee, and Cars. <br><br><br>
+
+<h2></h2>
+
+</br>
+
+<h2></h2>
+
+<div align="center">
+  <img src="./assets/pixel-neon.gif" alt="pixel guy using computer" width="100%" /><br>
+</div>
+
+<div align="center">
+  <img src="./assets/animated-flame-01.gif" width="16px" align="left"/>
+  <img src="./assets/animated-flame-01.gif" width="16px" align="right"/>
+  
+  <h2> <strong> ⚙️ Technologies and Skills </strong><img src="./assets/borderseparator.gif"/></h2>
+  <br>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uamirkifayat&theme=radical&langs_count=10&card_width=540&layout=compact" alt="Most used languages">
+  <br>
+
+  <br>
+  
+  <h2></h2>
+  <h3> <strong> Languages, Frameworks, and Tools </strong></h3>
+  <img src="https://skillicons.dev/icons?i=git,github,nodejs,express,vite,html,css,sass,tailwind,js,react,redux,java,firebase,mongodb,postman,netlify,vercel,figma,materialui" alt="skills logos" />
+  <br> 
+  <h2></h2>
+  <h3> <strong> Actively Learning </strong></h3>
+  <img src="https://skillicons.dev/icons?i=docker,aws" alt="skills actively learning logos">
+  <br>
+  <h2></h2>
+  <h3> <strong> Planning to Learn </strong></h3>
+  <img src="https://skillicons.dev/icons?i=nextjs,postgres,kubernetes,mysql,threejs,ts,jenkins,androidstudio" alt="skills planning to learn logos">
+</div>
+
+<h2></h2>
+
+<!-- <img src="./assets/animated-flame-01.gif" width="16px" align="left"/>
+<img src="./assets/animated-flame-01.gif" width="16px" align="right"/>
+
+<h2 align="center">💻 Workspace<img src="./assets/borderseparator.gif"/></h2>
+
+|                                                               👩‍💻 Device                                                               |                                                                                                                                                                                                                                                                                                                ⚙️ Specification                                                                                                                                                                                                                                                                                                                |                                                                                                                                         📃 Purpose                                                                                                                                         |
+| :----------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| <img src="https://img.shields.io/badge/acer%20Aspire%207-83B81A?style=for-the-badge&logo=acer&logoColor=white" alt="Acer Aspire 7"/> | <img src="https://img.shields.io/badge/Windows%2011%20Home-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows 11 Home"/> <img src="https://img.shields.io/badge/AMD%20Ryzen%205%205500U-ED1C24?style=for-the-badge&logo=amd&logoColor=white" alt="Windows 11 Home"/> <img src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="Windows 11 Home"/> <img src="https://img.shields.io/badge/512GB%20SSD-0078D6?style=for-the-badge" alt="512GB SSD"/> <img src="https://img.shields.io/badge/16GB%20DDR4-0078D6?style=for-the-badge&logoColor=white" alt="16GB RAM"> | <img src="https://img.shields.io/badge/🧑‍💻%20Work-007DB8?style=for-the-badge" alt="Work"> <img src="https://img.shields.io/badge/🧑‍💻%20Programming-202020?style=for-the-badge" alt="Programming"> <img src="https://img.shields.io/badge/🧑‍🎓%20School-00897B?style=for-the-badge" alt="School"> |
+
+<h2></h2>-->
+
+<div align="center">
+  <img src="./assets/pixel-night.gif" alt="pixel city night" width="100%" /><br>
+</div> 
+
+<img src="./assets/animated-flame-01.gif" width="16px" align="left"/>
+<img src="./assets/animated-flame-01.gif" width="16px" align="right"/>
+<br>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=umairkifayat&custom_title=RizwanAhmed%27s%20GitHub%20Activity%20Graph&bg_color=141321&color=A9FEF7&line=626069&point=F8D847&area_color=FE428E&title_color=FE428E&area=true" alt="My Github Activity Graph" width="100%">
+</div>
+
+</br>
+
+<h2></h2>
+
+<div align="center">
+  <h2> 🏆 My Github Stats <img src="./assets/borderseparator.gif"/></h2><br>
+  <img src="https://github-profile-trophy.vercel.app/?username=RizwanAhmed3000&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" /> <br><h2></h2><br>
+  <img src="https://streak-stats.demolab.com?user=RizwanAhmed3000&theme=radical" width="49%" alt="streaks graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RizwanAhmed3000&theme=radical&show_icons=true&count_private=true" width="49%" alt="stats graph" />
+</div> <br>
+
+<img src="./assets/animated-flame-01.gif" width="16px" align="left"/>
+<img src="./assets/animated-flame-01.gif" width="16px" align="right"/>
+
+
+</br>
+
+<h2></h2>
+
+<img src="./assets/animated-flame-01.gif" width="16px" align="left"/>
+<img src="./assets/animated-flame-01.gif" width="16px" align="right"/>
+
+<div align="center">
+  <h2 align="center">✉️ Contact <img src="./assets/borderseparator.gif"/></h2>
+  <a href="https://web.facebook.com/umair.kifayat.1" target="_blank">
+    <img src="./assets/logos/neon-facebook.png" width="48px" alt="Facebook"/>
   </a>
-  <a href="https://wa.me/923139090700" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="whatsapp logo"  />
+  &nbsp
+  <a href="https://www.instagram.com/umairkifayat/" target="_blank">
+    <img src="./assets/logos/neon-instagram.png" width="48px" alt="Instagram"/>
   </a>
-  <a href="https://www.linkedin.com/in/ahmedrazabaloch/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/aahmedrazabaloch/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  />
+  &nbsp
+  <a href="https://www.linkedin.com/in/umair-kifayat-91749b280/" target="_blank">
+    <img src="./assets/logos/neon-linkedin.png" width="48px" alt="LinkedIn"/>
   </a>
 </div>
 
-###
-
-<h3 align="left">💻  Languages and Tools:</h3>
-
-###
-
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg" height="40" alt="codepen logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="40" alt="markdown logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" height="40" alt="illustrator logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" height="40" alt="photoshop logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-</div>
-
-###
-    
+<!-- <img src="https://github.com/godkingjay/godkingjay/blob/output/github-snake-dark-neon-2.svg" width="100%" align="middle"/> -->
+<img src="./assets/animated-wave.svg" />
