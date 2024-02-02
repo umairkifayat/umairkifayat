@@ -104,23 +104,7 @@
 
 <h2></h2>
 
-<img src="./assets/animated-flame-01.gif" width="16px" align="left"/>
-<img src="./assets/animated-flame-01.gif" width="16px" align="right"/>
 
-<div align="center">
-  <h2 align="center">✉️ Contact <img src="./assets/borderseparator.gif"/></h2>
-  <a href="https://web.facebook.com/umair.kifayat.1" target="_blank">
-    <img src="./assets/logos/neon-facebook.png" width="48px" alt="Facebook"/>
-  </a>
-  &nbsp
-  <a href="https://www.instagram.com/umairkifayat/" target="_blank">
-    <img src="./assets/logos/neon-instagram.png" width="48px" alt="Instagram"/>
-  </a>
-  &nbsp
-  <a href="https://www.linkedin.com/in/umair-kifayat-91749b280/" target="_blank">
-    <img src="./assets/logos/neon-linkedin.png" width="48px" alt="LinkedIn"/>
-  </a>
-</div>
 
-<!-- <img src="https://github.com/godkingjay/godkingjay/blob/output/github-snake-dark-neon-2.svg" width="100%" align="middle"/> -->
+ <img src="https://github.com/godkingjay/godkingjay/blob/output/github-snake-dark-neon-2.svg" width="100%" align="middle"/> 
 <img src="./assets/animated-wave.svg" />
